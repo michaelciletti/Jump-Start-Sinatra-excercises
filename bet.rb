@@ -10,3 +10,6 @@ get '/bet/:stake/on/:number' do
 		"It landed on #{roll}.  You lose your stake of #{stake} chips"
 	end
 end
+
+
+#
